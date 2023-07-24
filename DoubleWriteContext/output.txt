@@ -1,0 +1,39 @@
+# OUTPUT DATA:
+
+# TEST_1:
+True True
+You shall seal the blinding light that plagues their dreams
+You are the Vessel
+You are the Hollow Knight
+You shall seal the blinding light that plagues their dreams
+You are the Vessel
+You are the Hollow Knight
+
+# TEST_2:
+True
+False
+
+# TEST_3:
+False
+False
+True
+
+# TEST_4:
+False False
+True True
+
+# TEST_5:
+Файл закрыт или недоступен для записи
+
+# TEST_6:
+Файл закрыт или недоступен для записи
+
+# TEST_7:
+False
+
+# TEST_8:
+True
+
+# TEST_9:
+False
+
